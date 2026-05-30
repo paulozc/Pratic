@@ -53,5 +53,5 @@ Então para implementar essa lógica escrevemos o código assim "boolean canFree
 na primeira parte colocamos caso o cachorro não esteja presente e arqueira esteja acordada ele retorna "false", e a outra parte caso nenhum deles esteja acordado ele pode escapar, dividimos o código
 pois o cavaleiro e a arqueira agem de maneira oposta caso o cachorro esteja presente.
 
-
+3
 
